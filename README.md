@@ -7,7 +7,7 @@ opengl-molecules
 
 ## Installation
 
-You have to install `libSOIL` by doing the following:
+You have to install `libSOIL` by doing the following:libSOIL`
 
 ``` sh
 git clone https://github.com/smibarber/libSOIL
